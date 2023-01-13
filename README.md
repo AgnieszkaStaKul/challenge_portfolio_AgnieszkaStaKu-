@@ -3,7 +3,7 @@
 # TASK1
 
 ## Subtask 1
-$${\color{blue}9 punktów}$$
+|- $${\color{blue}9 punktów}$$
 **9 punktów**
 
 ## Subtask 3
