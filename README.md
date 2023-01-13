@@ -3,7 +3,8 @@
 # TASK1
 
 ## Subtask 1
-<span style="color:blue">some 9 punktów text</span>
+<span style="color:blue"> 9 punktów text</span>
+
 %(#0000FF)[9 punktów]
 
 ## Subtask 3
