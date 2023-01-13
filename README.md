@@ -5,8 +5,8 @@
 ## Subtask 1
 
 <span style="color:blue">
-9 punktów
-</style>
+    9 punktów
+</span>
 
 %(#0000FF)[9 punktów]
 
