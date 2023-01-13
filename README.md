@@ -3,6 +3,13 @@
 # TASK1
 
 ## Subtask 1
+
+```html
+<span style="color:red">
+Text_content
+</style>
+```
+
 %(#ff0000)[9 punktów]
 
 ## Subtask 3
