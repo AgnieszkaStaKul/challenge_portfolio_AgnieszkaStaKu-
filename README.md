@@ -4,7 +4,7 @@
 
 ## Subtask 1
 $${\color{blue}9 punktów}$$
-$${\textcolor{blue}{\text{9 punktów}}$$
+$$\textcolor{blue}{\text{9 punktów}}$$
 \textcolor{blue}{9 punktów}
 
 ## Subtask 3
