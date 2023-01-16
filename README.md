@@ -52,7 +52,10 @@ Warto dać możliwość podglądu hasła.
 #### Strona główna
 
 W panelu “Aktywność” na stronie głównej literówka - “zaaktualizowany” powinno być “zaktualizowany”
+
 Przy niezapisanym meczu brak możliwości powrotu do raportu przez link “wróć do raportu”
+
+![niezapisany mecz](https://user-images.githubusercontent.com/120724034/212757103-afabf1f7-1f59-4106-adc2-9d018986a368.png)
 
 #### Lista graczy
 
@@ -62,23 +65,23 @@ Nie pokazuje się nad tabelą jakiego filtra dotyczy tekst - w pozycji “imię�
 
 #### Edycja gracza
 
-**Pola “imię” i “nazwisko”** - nie powinno być możliwości wprowadzania liczb i znaków specjalnych (oprócz myślnika), jedynie litery. Powinna być także ograniczona liczba znaków możliwych do wprowadzenia. 
+*Pola “imię” i “nazwisko”* - nie powinno być możliwości wprowadzania liczb i znaków specjalnych (oprócz myślnika), jedynie litery. Powinna być także ograniczona liczba znaków możliwych do wprowadzenia. 
 
-**Pole "wiek"** - możliwość wyboru zbyt szerokiego zakresu dat, przez co pojawiają się kilkusetletni gracze, lub zbyt młodzi, lub jeszcze nie narodzeni. Powinien być ograniczony zakres do wyboru.
+*Pole "wiek"* - możliwość wyboru zbyt szerokiego zakresu dat, przez co pojawiają się kilkusetletni gracze, lub zbyt młodzi, lub jeszcze nie narodzeni. Powinien być ograniczony zakres do wyboru.
 
-**Pole “e-mail”** - po wpisaniu tekstu bez znaku “@” nie ma możliwości zapisania/zaktualizowania gracza, jednak program nie podaje informacji dlaczego. Powinna być informacja w którym okienku jest wprowadzony element uniemożliwiający zapisanie gracza. 
+*Pole “e-mail”* - po wpisaniu tekstu bez znaku “@” nie ma możliwości zapisania/zaktualizowania gracza, jednak program nie podaje informacji dlaczego. Powinna być informacja w którym okienku jest wprowadzony element uniemożliwiający zapisanie gracza. 
 
-**Pole “telefon”** - nie powinno być możliwości wprowadzania liter i znaków specjalnych, jedynie liczby. Powinna być także ograniczona liczba znaków możliwych do wprowadzenia. 
+*Pole “telefon”* - nie powinno być możliwości wprowadzania liter i znaków specjalnych, jedynie liczby. Powinna być także ograniczona liczba znaków możliwych do wprowadzenia. 
 
-**Pole “waga”** - Nie powinno być możliwości wprowadzania wartości ujemnych oraz po przecinku. Powinna być także ograniczona liczba znaków możliwych do wprowadzenia. 
+*Pole “waga”* - Nie powinno być możliwości wprowadzania wartości ujemnych oraz po przecinku. Powinna być także ograniczona liczba znaków możliwych do wprowadzenia. 
 
-**Pole “wzrost”** - po wpisaniu błędnej wartości i klinięciu na inny obszar wartość ta jest akceptowana przez program. Po wpisaniu błędnej wartości i kliknięciu klawisza ‘enter” wyświetla się komunikat o błędzie. Należy wyświetlać komunikat o niepoprawnej wartości w obu przypadkach. Komunikat uwzględnia wartości ujemne jako prawidłowe. 
+*Pole “wzrost”* - po wpisaniu błędnej wartości i klinięciu na inny obszar wartość ta jest akceptowana przez program. Po wpisaniu błędnej wartości i kliknięciu klawisza ‘enter” wyświetla się komunikat o błędzie. Należy wyświetlać komunikat o niepoprawnej wartości w obu przypadkach. Komunikat uwzględnia wartości ujemne jako prawidłowe. 
 
-**Pola “klub”, “główna pozycja”** - powinna być ograniczona liczba znaków możliwych do wprowadzenia. 
+*Pola “klub”, “główna pozycja”* - powinna być ograniczona liczba znaków możliwych do wprowadzenia. 
 
-**Pola “języki”, “Łączy nas piłka”, “90 minut”** - nie powinno być możliwości wprowadzania liczb i znaków specjalnych, jedynie litery. Powinna być także ograniczona liczba znaków możliwych do wprowadzenia. 
+*Pola “języki”, “Łączy nas piłka”, “90 minut”* - nie powinno być możliwości wprowadzania liczb i znaków specjalnych, jedynie litery. Powinna być także ograniczona liczba znaków możliwych do wprowadzenia. 
 
-**Pola “profil facebook” i “link do YouTube”** - powinien być zapisany jako odnośnik url, a nie wartość tekstowa, żeby po kliknięciu móc od razu przejść na stronę.
+*Pola “profil facebook” i “link do YouTube”* - powinien być zapisany jako odnośnik url, a nie wartość tekstowa, żeby po kliknięciu móc od razu przejść na stronę.
 
 #### Mecze
 
@@ -86,15 +89,15 @@ Nie pokazuje się nad tabelą jakiego filtra dotyczy tekst - w pozycji “imię�
 
 #### Dodaj mecz
 
-**Pole "data"** - możliwość podania nierealnych dat (04-04-0004). Umożliwienie wpisywania dat z określonego zakresu lub jedynie ich wyboru z kalendarza.
+*Pole "data"* - możliwość podania nierealnych dat (04-04-0004). Umożliwienie wpisywania dat z określonego zakresu lub jedynie ich wyboru z kalendarza.
 
-**Pola “zdobyte gole” i “stracone gole”** - ograniczenie liczby znaków możliwych do wprowadzenia. 
+*Pola “zdobyte gole” i “stracone gole”* - ograniczenie liczby znaków możliwych do wprowadzenia. 
 
-**Pole “kolor koszulki”** - nie powinno być możliwości wprowadzania liczb i znaków specjalnych, jedynie litery. Powinna być także ograniczona liczba znaków możliwych do wprowadzenia. 
+*Pole “kolor koszulki”* - nie powinno być możliwości wprowadzania liczb i znaków specjalnych, jedynie litery. Powinna być także ograniczona liczba znaków możliwych do wprowadzenia. 
 
-**Pole “liga”** - najlepiej zrobić rozwijaną listę z możliwymi opcjami, żeby wszystko było ujednolicone. 
+*Pole “liga”* - najlepiej zrobić rozwijaną listę z możliwymi opcjami, żeby wszystko było ujednolicone. 
 
-**Pole “numer”, “czas gry”** - wprowadzenie braku możliwości podania liczb ujemnych oraz po przecinku, ograniczenie zakresu liczb. 
+*Pole “numer”, “czas gry”* - wprowadzenie braku możliwości podania liczb ujemnych oraz po przecinku, ograniczenie zakresu liczb. 
 
 #### Raporty
 
@@ -104,17 +107,18 @@ Po kliknięciu w przycisk “dodaj raport” przekierowuje nas na stronę z list
 
 Strona główna na urządzeniach mobilnych na niski wskaźnik Performance, związany z długim czasem ładowania.
 
-![niezapisany mecz](https://user-images.githubusercontent.com/120724034/212757103-afabf1f7-1f59-4106-adc2-9d018986a368.png)
+![lighhouse mobi strona główna](https://user-images.githubusercontent.com/120724034/212757861-9788dbaf-acdd-449c-9743-34737a45658f.png)
 
 Podobnie w menu edycji gracza (na urządzenia mobilne) - niski Performance, dodatkowo stosunkowo niskie SEO. 
 
+![lighthouse mobi edycja graczy](https://user-images.githubusercontent.com/120724034/212758154-1807581b-b0b1-41b2-9817-52fe9917ba9f.png)
+
 Na urządzeniach mobilnych edycja gracza/meczu wygląda nieestetycznie. Pola do wprowadzania danych są za szerokie - lepiej, by dostosowywały się do rozdzielczości ekranu. 
+
+https://user-images.githubusercontent.com/120724034/212758025-9e6fc8fa-962c-4da1-8a62-2d42cb498e44.mp4
 
 Bardzo długi czas ładowania pliku png (1,3 min) - tu sytuacja miała miejsce o 20:20, dzień przed oddaniem zadania ;) Możliwe, że sytuacja taka występuje przy obciążeniu serwera, ponieważ przy wcześniejszym ładowaniu tej strony (innego dnia, w godzinach porannych), ładowało się błyskawicznie.
 
-
+![lighhouse deskop mecz ](https://user-images.githubusercontent.com/120724034/212757979-111a95ef-a013-4d9f-aa61-e8a50245b3ef.png)
 
 Powtórzone parokrotnie - najpierw ładowało się wolno za każdym razem, potem po kilku minutach już szybko. Niezależnie od prędkości Internetu (testowane na Fast 3G i Slow 3G)
-
-
-
