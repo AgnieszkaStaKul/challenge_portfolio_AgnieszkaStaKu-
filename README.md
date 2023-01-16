@@ -5,6 +5,10 @@
 ## Subtask 1
 $$\textcolor{green}{\text{9 punktów}}$$
 
+## Subtask 2
+
+Jak widać udało się! 😉
+
 ## Subtask 3
 Hej! Mam na imię Agnieszka. Z wykształcenia jestem socjologiem i plastykiem, z pasji kucharzem. Chyba czas na kolejną specjalizację! 😉 Zdecydowałam się na udział w Dare IT Challenge, ponieważ docelowo chciałabym rozpocząć pracę jako tester. Wierzę (i już to widzę!), że zadania pozwolą mi usystematyzować wiedzę zdobytą do tej pory, umożliwą przećwiczenie jej i za te kilka tygodni będę wiedziała... Czego jeszcze muszę się nauczyć. :smiley: 
 
@@ -122,3 +126,7 @@ Bardzo długi czas ładowania pliku png (1,3 min) - tu sytuacja miała miejsce o
 ![lighhouse deskop mecz ](https://user-images.githubusercontent.com/120724034/212757979-111a95ef-a013-4d9f-aa61-e8a50245b3ef.png)
 
 Powtórzone parokrotnie - najpierw ładowało się wolno za każdym razem, potem po kilku minutach już szybko. Niezależnie od prędkości Internetu (testowane na Fast 3G i Slow 3G)
+
+## Subtask 5
+
+Projekt w Jirze założony - Pati zaproszona do projektu. 😉 
