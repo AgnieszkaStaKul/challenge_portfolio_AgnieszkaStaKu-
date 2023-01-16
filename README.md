@@ -121,7 +121,7 @@ Na urządzeniach mobilnych edycja gracza/meczu wygląda nieestetycznie. Pola do 
 
 https://user-images.githubusercontent.com/120724034/212758025-9e6fc8fa-962c-4da1-8a62-2d42cb498e44.mp4
 
-Bardzo długi czas ładowania pliku png (1,3 min) - tu sytuacja miała miejsce o 20:20, dzień przed oddaniem zadania ;) Możliwe, że sytuacja taka występuje przy obciążeniu serwera, ponieważ przy wcześniejszym ładowaniu tej strony (innego dnia, w godzinach porannych), ładowało się błyskawicznie.
+Bardzo długi czas ładowania pliku png (1,3 min) - tu sytuacja miała miejsce o 20:20, dzień przed oddaniem zadania 😉 Możliwe, że sytuacja taka występuje przy obciążeniu serwera, ponieważ przy wcześniejszym ładowaniu tej strony (innego dnia, w godzinach porannych), ładowało się błyskawicznie.
 
 ![lighhouse deskop mecz ](https://user-images.githubusercontent.com/120724034/212757979-111a95ef-a013-4d9f-aa61-e8a50245b3ef.png)
 
