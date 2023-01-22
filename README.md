@@ -130,3 +130,17 @@ Powtórzone parokrotnie - najpierw ładowało się wolno za każdym razem, potem
 ## Subtask 5
 
 Projekt w Jirze założony - Pati zaproszona do projektu. 😉 
+
+# TASK 2
+
+## Subtask 1
+
+[Pisanie przypadków testowych na podstawie User Story.](https://docs.google.com/spreadsheets/d/1tlJEn8MnRkRne9H9ARLT-GNZAJ_AwUfgYL44pbW1FPQ/edit#gid=0)
+
+## Subtask 2
+
+[Pisanie przypadków testowych na podstawie “własnych doświadczeń.](https://docs.google.com/spreadsheets/d/1ttNOXPRfkWQ0IL2bhyw6ofATzUdYoe8cBnOmVYlW0h0/edit#gid=0)
+
+## Subtask 3
+
+Test case'y pisane są po to, by dokładnie przetestować każdą możliwość - bez powielania, ale i bez pomijania elementów. Dodatkowo pozwalają na wielokrotne uruchamianie dokładnie tych samych testów - nawet jesli robią je rózne osoby, dzięki przypadkom testowym testy będą przebiegały identycznie. Dzięki nim także mozliwe są retesty i testy regresji.
