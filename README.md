@@ -144,3 +144,17 @@ Projekt w Jirze założony - Pati zaproszona do projektu. 😉
 ## Subtask 3
 
 Test case'y pisane są po to, by dokładnie przetestować każdą możliwość - bez powielania, ale i bez pomijania elementów. Dodatkowo pozwalają na wielokrotne uruchamianie dokładnie tych samych testów - nawet jesli robią je rózne osoby, dzięki przypadkom testowym testy będą przebiegały identycznie. Dzięki nim także możliwe są retesty i testy regresji.
+
+# TASK3
+
+## Subtask 1 + 2
+
+[Formatka ze zgłoszonymi błędami](https://docs.google.com/document/d/187JR2mQ-X5gIx5h9KsecllMvZQmI9IPkcVA9c2eY-AQ/edit#heading=h.kqm4mnf15nwb)
+
+[Test Case z informacją o przebiegu testów](https://docs.google.com/spreadsheets/d/1-TkCSq9Zq19VPsIOzRatB1IXGq5xu_zyQVxTFeLAueY/edit#gid=0)
+
+## Subtask 3
+
+[Raport](https://docs.google.com/document/d/1yk8ftU-06ln9GRaOMP9iY5D2uOQQqAINR4bqrb2Awsk/edit#)
+
+
