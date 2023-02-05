@@ -157,4 +157,35 @@ Test case'y pisane są po to, by dokładnie przetestować każdą możliwość -
 
 [Raport](https://docs.google.com/document/d/1yk8ftU-06ln9GRaOMP9iY5D2uOQQqAINR4bqrb2Awsk/edit#)
 
+# TASK4
+
+## Subtask 2
+
+[Testowanie eksploracyjne](https://docs.google.com/document/d/1T9fFP6ys6V-78mODzQ-UNHgmL_IMan36ViGs6B7m0u4/edit?usp=sharing)
+
+## Subtask 3
+
+### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+
+Aplikacja służy mobilnej obsłusze strony Olx.pl z ogłoszeniami. Dzięki niej możemy utworzyć, edytować i usunąć profil użytkownika, wyszukiwać ogłoszenia sprzedaży, o pracę, wystawiać rzeczy na sprzedaż. Obsługuje dokłądnie te same elementy, co strona Internetowa. 
+
+### Kto ma być użytkownikiem końcowym aplikacji?
+
+Użytkownik portolu Olx.pl - posiadający profil na portalu, ale także taki, który dopiero profil chce założyć. Osoba/firma chcąca zamieścić na portalu (/w aplikacji) ogłoszenie kupna, sprzedaży, o pracę. 
+
+### Czy według Ciebie aplikacja jest user friendly? 
+
+Zdecydowanie tak. Aplikacja jest przejrzysta, poruszanie się po niej jest intuicyjne. Łatwo dostać się do poszczególnych elementów aplikacji - edycji profilu, ogłoszeń. Wypełnianie formatek jest przygotowane na błędy uzytkownika - pojawiają się komunikaty walidacyjne. Dodatkowo aplikacja jest estetyczna, a co jest dodatkowym atutem - jest kopią strony internetowej (w domyśle znanej użytkownikowi), dzięki czemu osobie znajacej Olx jest łatwo się po niej poruszać.
+
+### Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
+
+Brak uwag.
+
+### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+
+- w testach aplikacji internetowej możemy pozyskać dodatkowe dane za pomocą dev tools;
+- aplikacje natywne korzystają z dostępu do funkcjonalności telefonu (rozpoznawanie twarzy, dostęp do plików, powiadomienia push, mikrofon etc.), co również możemy testować;
+- testy aplikacji internetowej wydają się być wygodniejsze - duży ekran, myszka komputerowa, kilka otwartych okien, kontra małe urządzenie odługiwane w łaściwie jednym palcem;
+testy aplikacji natywnych zmuszają do korzystania z wielu sprzetó lub emulatorów; aplikacje internetowe obsługują mniejszą różnorodność na przykład rozdzielczości.\
+
 
