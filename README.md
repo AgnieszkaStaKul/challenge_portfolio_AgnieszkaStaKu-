@@ -186,6 +186,6 @@ Brak uwag.
 - w testach aplikacji internetowej możemy pozyskać dodatkowe dane za pomocą dev tools;
 - aplikacje natywne korzystają z dostępu do funkcjonalności telefonu (rozpoznawanie twarzy, dostęp do plików, powiadomienia push, mikrofon etc.), co również możemy testować;
 - testy aplikacji internetowej wydają się być wygodniejsze - duży ekran, myszka komputerowa, kilka otwartych okien, kontra małe urządzenie odługiwane w łaściwie jednym palcem;
-testy aplikacji natywnych zmuszają do korzystania z wielu sprzetó lub emulatorów; aplikacje internetowe obsługują mniejszą różnorodność na przykład rozdzielczości.\
+- testy aplikacji natywnych zmuszają do korzystania z wielu sprzętów lub emulatorów; aplikacje internetowe obsługują mniejszą różnorodność na przykład rozdzielczości.
 
 
