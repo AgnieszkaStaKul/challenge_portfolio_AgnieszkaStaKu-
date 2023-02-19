@@ -223,7 +223,7 @@ Serwer postawiony!
 UPDATE customers SET surname = 'Miler'
 WHERE name = 'Ania' AND surname = 'Muler';
 
-![niezapisany mecz](C:\Users\tkool\Downloads\Dare IT)
+cd C:\Users\tkool\Downloads\Dare IT\Ad 11
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
