@@ -223,7 +223,7 @@ Serwer postawiony!
 UPDATE customers SET surname = 'Miler'
 WHERE name = 'Ania' AND surname = 'Muler';
 
-cd C:\Users\tkool\Downloads\Dare IT\Ad 11
+![Ad11](https://user-images.githubusercontent.com/120724034/219976474-401891dc-a98a-4c6e-a8e6-a31c8e18d2f4.png)
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
@@ -231,25 +231,35 @@ SELECT name, email FROM customers AS c
 JOIN sale AS s ON c.customer_id = s.customer_id
 WHERE s.movie_id = 4;
 
+![Ad12](https://user-images.githubusercontent.com/120724034/219976506-f414d771-4a5b-41a1-a240-1979a7c2b126.png)
+
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
 
 UPDATE customers SET email = 'pati@mail.com'
 WHERE name = 'Patrycja';
+
+![Ad13](https://user-images.githubusercontent.com/120724034/219976542-0021f23f-31c5-4187-843f-97fa83c8ea4d.png)
 
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
 
 SELECT DISTINCT name, surname FROM customers AS c
 INNER JOIN sale AS s ON c.customer_id = s.customer_id;
 
+![Ad14](https://user-images.githubusercontent.com/120724034/219976561-a3b7d69e-ccb2-4fee-9cc8-54d88268d447.png)
+
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
 
 ALTER TABLE customers
 ADD pseudonym varchar(20) COLLATE utf8_polish_ci DEFAULT NULL;
 
+![Ad15](https://user-images.githubusercontent.com/120724034/219976574-5170203a-d05f-4aef-9ea2-c98d64133d48.png)
+
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 
 SELECT DISTINCT title FROM movies AS m
 JOIN sale AS s ON m.movie_id = s.movie_id;
+
+![Ad16](https://user-images.githubusercontent.com/120724034/219976582-cd6972af-dd24-4966-a85f-739c9517acbd.png)
 
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
 
@@ -257,10 +267,14 @@ SELECT name, surname FROM actors
 UNION
 SELECT name, surname FROM customers;
 
+![Ad17](https://user-images.githubusercontent.com/120724034/219976604-9deb7a73-8f1d-4b7d-bfbf-79c72ccef199.png)
+
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
 
 UPDATE movies SET price = price + 2.5
 WHERE year_of_production > 2000;
+
+![Ad18](https://user-images.githubusercontent.com/120724034/219976634-162204e7-6d6e-47e2-a491-b472e9a711a2.png)
 
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 
@@ -269,12 +283,17 @@ JOIN cast AS c ON a.actor_id = c.actor_id
 JOIN movies AS m ON m.movie_id = c.movie_id 
 WHERE a.actor_id = 4;
 
+![Ad19](https://user-images.githubusercontent.com/120724034/219976647-bf4d51be-60da-4f8f-bc13-8e8efc8dd90b.png)
+
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
 INSERT INTO customers (customer_id, name, surname, email, pseudonym)
 VALUES (7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
 
+![Ad20](https://user-images.githubusercontent.com/120724034/219976665-f9bbaa21-de39-472e-9d04-8c2dd240f9a3.png)
+
 
 # Subtask 2
 
-Serwer postawiony!
+$$\textcolor{green}{\text{11 punktów}}$$
+
